@@ -3,6 +3,7 @@
 * Natural language processing
 * Deep learning for language processing
 * Corpus-based language processing
+* Chunking
 
 
 
