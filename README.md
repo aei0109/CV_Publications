@@ -1,3 +1,19 @@
+# Research Interests
+* Korean language processing
+* Natural language processing
+* Deep learning for language processing
+* Corpus-based language processing
+
+
+# Projects(participating)
+
+|  <center>Year</center> |  <center>Projects</center> |  <center>Funding agency</center> |
+|:--------|:--------:|--------:|
+|**2017** | <center>한국어 처리를 위한 기초 분석 도구 및 서비스 개발</center> |*과학기술정보통신부* |
+|**2018** | <center>자동번역을 위한 다국어 개체명 인식의 성능 개선에 관한 연구</center> |*한국전자통신연구원* |
+|**2019** | <center>심층학습을 통한 개체명 학습 말뭉치 생성에 관한 연구</center> |*한국전자통신연구원* |
+
+
 # Publications
 
 ## 2019
