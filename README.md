@@ -1,4 +1,4 @@
-# Conference
+# Publications
 
 ## 2019
 Young Namgoong, Chang-Hyun Kim, Min-Ah Cheon, Ho-Min Park, Ho Yoon, Min-Seok Choi, Jae-Kyun Kim, Jae-Hoon Kim, Building Korean Dependency Treebanks Reflected Chunking, Proceedings of the 30th Annual Conference on Human and Cognitive Language Technology, pp. 133-138, October, 2019. 
