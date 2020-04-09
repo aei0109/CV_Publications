@@ -4,6 +4,7 @@
 * Deep learning for language processing
 * Corpus-based language processing
 * Chunking in agglutinative language
+* Brain-computer Interface
 
 ***
 # Projects
