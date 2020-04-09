@@ -6,7 +6,7 @@
 * Chunking in agglutinative language
 
 ***
-# Projects(participating)
+# Projects
 
 |  <center>Year</center> |  <center>Projects</center> |  <center>Funding agency</center> |
 |:--------:|:--------:|:--------:|
