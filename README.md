@@ -11,23 +11,27 @@
 
 |  <center>Year</center> |  <center>Projects</center> |  <center>Funding agency</center> |
 |:--------:|:--------:|:--------:|
-|**2020~**| <center>딥 러닝 기반의 개체명 인식 학습 말뭉치 생성을 위한 모델 개선에 관한 연구</center> | <center>한국전자통신연구원</center>|
-|**2019** | <center>심층학습을 통한 개체명 학습 말뭉치 생성에 관한 연구</center> |<center>한국전자통신연구원</center>|
-|**2018** | <center>자동번역을 위한 다국어 개체명 인식의 성능 개선에 관한 연구</center> |<center>한국전자통신연구원</center>|
-|**2018~** | <center>한국어 처리를 위한 기초 분석 도구 및 서비스 개발</center> |<center>과학기술정보통신부</center>|
+|**2020~**| <center>Research for improving performance of corpus generation model for Korean named-entity based on deep learning</center> | <center>ETRI</center>|
+|**2019** | <center>Research on generation of Korean named-entity corpus using deep learning</center> |<center>ETRI</center>|
+|**2018** | <center>Reseach on performance improvement of named-entity recognition in multi-language for machine translation</center> |<center>ETRI</center>|
+|**2018~** | <center>Development of core anlysis tools and services for Korean language procesisng</center> |<center>Ministry of Science and Technology Information and Communication</center>|
 
 
 
-* 딥 러닝 기반의 개체명 인식 학습 말뭉치 생성을 위한 모델 개선에 관한 연구
+* Research for improving performance of corpus generation model for Korean named-entity based on deep learning  
+  (딥 러닝 기반의 개체명 인식 학습 말뭉치 생성을 위한 모델 개선에 관한 연구)
   -	Applied flair embedding for sequence tagger
   
-* 심층학습을 통한 개체명 학습 말뭉치 생성에 관한 연구
+* Research on generation of Korean named-entity corpus using deep learning  
+  (심층학습을 통한 개체명 학습 말뭉치 생성에 관한 연구)
   -	Improved named entity recognition system based on deep learning using different features and parameters
 
-* 자동번역을 위한 다국어 개체명 인식의 성능 개선에 관한 연구
+* Reseach on performance improvement of named-entity recognition in multi-language for machine translation  
+  (자동번역을 위한 다국어 개체명 인식의 성능 개선에 관한 연구)
   -	Implemented deep learning based named-entity recognition system based on different input representations
 
-* 한국어 처리를 위한 기초 분석 도구 및 서비스 개발
+* Development of core anlysis tools and services for Korean language procesisng  
+  (한국어 처리를 위한 기초 분석 도구 및 서비스 개발)
   -	Developed Korean dependency parsing system reflected chunking using stack-pointer net.
   -	Implemented embedding structures for Korean chunking
   -	Built Korean dependency parsing corpus reflected chunking
@@ -54,3 +58,10 @@
 
 * Young Namgoong, Min-Ah Cheon,  Ho Yoon, Ho-Min Park,  Min-Seok CHoi, and Jae-Hoon Kim, **"Chunking auxiliary verb and particle equivalent phrases through NLTK"**,  *Proceedings of the 42nd KOSME Spring Conference*, pp 265-266, April 2018 (in Korean).
 
+
+
+***
+# Skills
+* **[Languages]** Python, C++, HTML, CSS
+* **[Libraries/Editors]** Tensorflow, PyTorch, Flask/Pycharm, VSC, Atom etc.
+* **[OA]** MS PowerPoint/Word/Excel, Hancom office, Adobe Photoshop/Premiere Pro etc.
