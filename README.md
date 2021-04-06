@@ -50,7 +50,7 @@
 ## Domestic Conference
 * Ho Yoon, Young Namgoong, Chang-Hun Kim, Jae-Hoon Kim, **"Korean Morpheme Recovery Using Deep Learning"**, *Proceedings of the 43rd KOSME Fall Conference*, pp. 51, October, 2019. 
 
-* Young Namgoong, Chang-Hyun Kim, Min-Ah Cheon, Ho-Min Park, Ho Yoon, Min-Seok Choi, Jae-Kyun Kim, Jae-Hoon Kim, **"Building Korean Dependency Treebanks Reflected Chunking"**, *Proceedings of the 30th Annual Conference on Human and Cognitive Language Technology*, pp. 133-138, October, 2019. 
+* Young Namgoong, Chang-Hyun Kim, Min-Ah Cheon, Ho-Min Park, Ho Yoon, Min-Seok Choi, Jae-Kyun Kim, Jae-Hoon Kim, **"Building Korean Dependency Treebanks Reflected Chunking"**, *Proceedings of the 31th Annual Conference on Human and Cognitive Language Technology*, pp. 133-138, October, 2019. 
 
 * Young Namgoong, Chang-Hyun Kim, Min-Ah Cheon, Ho-Min Park, Ho Yoon, Min-Seok Choi, Jae-Kyun, Kim, Jae-Hoon Kim, **"Korean Chunking using Bi-LSTM/CRF"**, *Proceedings of the Korea Computer Congress*, pp. 631-633, June, 2019 (in Korean).
 
