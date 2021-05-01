@@ -14,7 +14,7 @@
 |**2020~**| <center>Research for improving performance of corpus generation model for Korean named-entity based on deep learning</center> | <center>ETRI</center>|
 |**2019** | <center>Research on generation of Korean named-entity corpus using deep learning</center> |<center>ETRI</center>|
 |**2018** | <center>Reseach on performance improvement of named-entity recognition in multi-language for machine translation</center> |<center>ETRI</center>|
-|**2018~** | <center>Development of core anlysis tools and services for Korean language procesisng</center> |<center>Ministry of Science and Technology Information and Communication</center>|
+|**2018~** | <center>Development of core anlysis tools and services for Korean language procesisng</center> |<center>Ministry of Science, ICT and Future Planning</center>|
 
 
 
